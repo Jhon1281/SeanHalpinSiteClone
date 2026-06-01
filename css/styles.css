@@ -4,17 +4,17 @@
 /* Fonts */
 /* ========================================== */
 
-@font-face {
+/* @font-face {
     font-family: 'Botanica';
     src: url('/mySite/Resources/fonts/Botanica-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
-}
+} */
 
 @font-face {
     font-family: 'Merriweather';
-    src: url('/mySite/Resources/fonts/Merriweather-VariableFont_opsz\,wdth\,wght.ttf') format('truetype');
+    src: url('Resources/fonts/Merriweather-VariableFont_opsz\,wdth\,wght.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -22,7 +22,7 @@
 
 @font-face {
     font-family: 'Sacramento';
-    src: url('/mySite/Resources/fonts/Sacramento-Regular.ttf') format('truetype');
+    src: url('Resources/fonts/Sacramento-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -30,7 +30,7 @@
 
 @font-face {
     font-family: 'Montserrat';
-    src: url('/mySite/Resources/fonts/Montserrat-VariableFont_wght.ttf') format('truetype');
+    src: url('Resources/fonts/Montserrat-VariableFont_wght.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
