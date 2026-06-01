@@ -237,6 +237,10 @@ img {
     padding: 1em 0;
 }
 
+.containTextBody {
+    padding: 0 1em;
+}
+
 /* Paddings */
 .paddings {
     padding: 0 1em;
@@ -350,6 +354,23 @@ img {
 
     .topContainer {
         padding-top: 22%;
+    }
+
+    .whatIcanDo {
+        flex-direction: column;
+        gap: 2em;
+    }
+
+    .whatIcanDoImg {
+        display: flex;
+        align-items: center;
+        gap: 9em;
+        margin: 0 1em;
+    }
+
+    .containText {
+        width: 100%;
+        margin: 0 auto;
     }
 }
 
