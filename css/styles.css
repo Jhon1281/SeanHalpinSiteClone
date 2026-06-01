@@ -280,7 +280,7 @@ img {
     left: -.9em;
     width: 7em;
     height: 25em;
-    background-image: url('/mySite/Resources/img/Tools.JPG');
+    background-image: url('../Resources/img/Tools.JPG');
     background-size: 100% 25em;
     animation: moveFrames 25s infinite;
 }
@@ -290,7 +290,7 @@ img {
     left: -.9em;
     width: 7em;
     height: 25em;
-    background-image: url('/mySite/Resources/img/Tools.JPG');
+    background-image: url('../Resources/img/Tools.JPG');
     background-size: 100% 25em;
     animation: moveFrames 20s infinite;
 }
